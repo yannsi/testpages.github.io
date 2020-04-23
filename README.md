@@ -38,7 +38,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+<center>
 ![r2d2](r2d2.png "r2d2")
 
 ![phasma](https://user-images.githubusercontent.com/64046112/80059119-18f3a300-8566-11ea-879b-4fde048478b1.png)
-
+</center>
