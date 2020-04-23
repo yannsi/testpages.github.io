@@ -40,6 +40,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 <center>
 ![r2d2](r2d2.png "r2d2")
-
 ![phasma](https://user-images.githubusercontent.com/64046112/80059119-18f3a300-8566-11ea-879b-4fde048478b1.png)
 </center>
